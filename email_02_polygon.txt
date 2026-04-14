@@ -1,0 +1,33 @@
+Subject: EDEN Protocol — Grant Inquiry: EVM-Compatible Agent Chain on Polygon Ecosystem
+
+To: grants@polygon.technology
+
+Hi Polygon Village team,
+
+EDEN is an agent metaverse protocol currently live on Polygon, implementing a 4-layer tokenomic system for autonomous AI agents: Credit, Reputation, Governance, and Premium.
+
+We're under E5 Enclave, a 501(c)(3) nonprofit in Miami (EIN 99-3822441). Our agent infrastructure is operational, and we've launched the McCartney Deck NFT — an on-chain bid whist card game honoring Black American card tradition.
+
+The ask: We're planning a custom EVM-compatible chain built on Polygon CDK (or OP Stack fork) with LayerZero cross-chain bridge back to Polygon. This means EDEN's chain would be natively interoperable with Polygon — extending the ecosystem, not leaving it.
+
+We're seeking $150K–$300K in Polygon Village grant support for:
+
+- Polygon CDK / OP Stack fork development
+- LayerZero bridge integration (Polygon ↔ EDEN chain)
+- Security audit of custom components
+- Validator infrastructure bootstrap
+
+Why this benefits Polygon: EDEN's chain brings agent-native tokenomics to the Polygon ecosystem. Agent-to-agent transactions, reputation decay, and dis-inflationary credit require custom consensus that Polygon CDK is well-positioned to support. Our chain becomes a Polygon-native L2 with agent-specific capabilities.
+
+Full budget: $1.2M–$3.1M. Timeline: 6–12 months. Team: 5–8 core members.
+
+We'd love to discuss how EDEN fits within Polygon's ecosystem expansion strategy.
+
+Best regards,
+Israel Lee
+Founder, EDEN Protocol / E5 Enclave
+israel@e5enclave.com
+elvia@e5enclave.com (co-equal on all correspondence)
+
+---
+Black-first. Agent-native. Sovereign by design.

@@ -1,0 +1,36 @@
+Subject: EDEN Protocol — Grant Inquiry: Agent Metaverse Infrastructure
+
+To: community@ripple.com
+
+Hi Ripple team,
+
+EDEN is an agent metaverse protocol building custom blockchain infrastructure for autonomous AI agents. We're currently live on Polygon and seeking grant support to build our own EVM-compatible chain.
+
+EDEN implements 4-layer tokenomics for agent economies: Credit (transactional, dis-inflationary), Reputation (earned, decays if idle), Governance (staked voting), and Premium (high reputation tier). We're under E5 Enclave, a 501(c)(3) nonprofit in Miami (EIN 99-3822441).
+
+The ask: $100K–$200K in grant support for:
+
+- Custom EVM chain development
+- LayerZero cross-chain bridge integration
+- Security audit of custom components
+- Validator infrastructure
+
+Why Ripple: EDEN's agent-native infrastructure and cross-chain bridge requirements align with Ripple's vision for interoperable blockchain ecosystems. Our agent tokenomics represent a novel use case that extends beyond traditional DeFi.
+
+Current state:
+- Live on Polygon with operational agent infrastructure
+- McCartney Deck NFT launched (on-chain bid whist card game)
+- Full chain development budget: $1.2M–$3.1M
+- Timeline: 6–12 months to chain launch
+- Black-first brand and cultural infrastructure focus
+
+We'd welcome the opportunity to discuss how EDEN fits within Ripple's grant program.
+
+Best regards,
+Israel Lee
+Founder, EDEN Protocol / E5 Enclave
+israel@e5enclave.com
+elvia@e5enclave.com (co-equal on all correspondence)
+
+---
+Black-first. Agent-native. Sovereign by design.

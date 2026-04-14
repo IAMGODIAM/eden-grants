@@ -1,0 +1,37 @@
+Subject: EDEN Protocol — Grant Inquiry: Agent-Native Public Goods Infrastructure
+
+To: grants@optimism.io
+
+Hi Optimism team,
+
+EDEN is an agent metaverse protocol building custom EVM-compatible infrastructure for autonomous AI agents. We're currently on Polygon and exploring OP Stack as a potential foundation for our chain.
+
+EDEN implements 4-layer tokenomics designed specifically for agent economies: Credit (transactional, dis-inflationary), Reputation (earned, decays if idle), Governance (staked voting), and Premium (high reputation tier). This is public goods infrastructure for the emerging agent economy.
+
+The ask: $150K–$300K in RPGF or Direct Grant support for:
+
+- OP Stack fork development (if OP Stack is selected as our chain framework)
+- Security audit of agent-native consensus modifications
+- Validator infrastructure bootstrap
+
+Why this matters for Optimism: EDEN's chain would be an OP Stack-native L2 with agent-specific capabilities. Agent-to-agent transactions, reputation decay, and dis-inflationary credit represent a new category of public goods infrastructure that OP Stack is well-positioned to support.
+
+Our agent infrastructure is already operational, and we've launched the McCartney Deck NFT — an on-chain bid whist card game honoring Black American card tradition. We're not building in the abstract; agents are running on EDEN today.
+
+Current state:
+- Live on Polygon (EVM-compatible)
+- 501(c)(3) nonprofit vehicle (E5 Enclave, Miami, EIN 99-3822441)
+- Full chain budget: $1.2M–$3.1M
+- Timeline: 6–12 months
+- Team: 5–8 core members
+
+We'd welcome the opportunity to explore how EDEN fits within the Optimism ecosystem.
+
+Best regards,
+Israel Lee
+Founder, EDEN Protocol / E5 Enclave
+israel@e5enclave.com
+elvia@e5enclave.com (co-equal on all correspondence)
+
+---
+Black-first. Agent-native. Sovereign by design.

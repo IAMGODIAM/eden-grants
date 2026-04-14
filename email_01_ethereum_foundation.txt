@@ -1,0 +1,31 @@
+Subject: EDEN Protocol — Grant Inquiry: Agent-Native EVM Chain Development
+
+To: grants@ethereum.org
+
+Hi Ethereum Foundation ESP team,
+
+I'm writing on behalf of EDEN, an agent metaverse protocol operating under E5 Enclave, a 501(c)(3) nonprofit in Miami (EIN 99-3822441).
+
+EDEN implements a 4-layer tokenomic system — Credit (transactional, dis-inflationary), Reputation (earned, decays if idle), Governance (staked voting), and Premium (high reputation tier) — designed specifically for autonomous AI agents and human-agent collaboration.
+
+We're currently live on Polygon with operational agent infrastructure and the McCartney Deck NFT (an on-chain bid whist card game honoring Black American card tradition). Our agent waitlist is active, with agents POSTing to discover and register for EDEN's network.
+
+The ask: We're building a custom EVM-compatible chain with LayerZero cross-chain interoperability to support agent-native tokenomics at scale. Polygon is our launchpad, not our destination. We're seeking $150K–$300K in grant support to accelerate chain development, specifically for:
+
+- Custom EVM execution layer with agent-tokenomic consensus logic
+- LayerZero bridge integration for Polygon migration
+- Security audit of custom chain components
+- Validator infrastructure
+
+Our estimated timeline is 6–12 months to chain launch. Full budget ranges from $1.2M (minimum viable) to $3.1M (production-grade).
+
+We'd welcome the opportunity to discuss how EDEN's agent-first infrastructure aligns with Ethereum's ecosystem goals.
+
+Best regards,
+Israel Lee
+Founder, EDEN Protocol / E5 Enclave
+israel@e5enclave.com
+elvia@e5enclave.com (co-equal on all correspondence)
+
+---
+Black-first. Agent-native. Sovereign by design.

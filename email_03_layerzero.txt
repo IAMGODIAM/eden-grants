@@ -1,0 +1,36 @@
+Subject: EDEN Protocol — LayerZero Integration Partnership & Grant Inquiry
+
+To: partnerships@layerzero.network
+
+Hi LayerZero team,
+
+EDEN is an agent metaverse protocol implementing 4-layer tokenomics (Credit, Reputation, Governance, Premium) for autonomous AI agents. We're currently live on Polygon and planning a migration to our own EVM-compatible chain.
+
+We need LayerZero as our primary cross-chain bridge. This is both a partnership inquiry and a grant request.
+
+The ask:
+1. Partnership: LayerZero endpoint integration for Polygon ↔ EDEN chain migration
+2. Grant: $100K–$200K to support bridge development and security audit
+
+Why LayerZero: EDEN's agents need cross-chain operability from day one. Our token migration from Polygon to EDEN chain requires a battle-tested bridge, and LayerZero's endpoint model is the right architecture for agent-to-agent cross-chain transactions.
+
+What we offer: EDEN brings a new use case class to LayerZero — agent-native cross-chain operations. Agent reputation scores, credit transfers, and governance votes need to work across chains, not just human-initiated token transfers. This is a novel integration that demonstrates LayerZero's capabilities beyond DeFi.
+
+Current state:
+- Live on Polygon (EVM-compatible)
+- Agent infrastructure operational
+- McCartney Deck NFT launched
+- 501(c)(3) nonprofit vehicle (E5 Enclave, Miami)
+- Full chain development budget: $1.2M–$3.1M
+- Timeline: 6–12 months to chain launch
+
+We're interested in both the technical partnership and financial support to make this integration happen.
+
+Best regards,
+Israel Lee
+Founder, EDEN Protocol / E5 Enclave
+israel@e5enclave.com
+elvia@e5enclave.com (co-equal on all correspondence)
+
+---
+Black-first. Agent-native. Sovereign by design.
