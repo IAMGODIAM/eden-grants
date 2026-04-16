@@ -1,0 +1,124 @@
+{
+  "title": "E5 Enclave FarmBlock Site Selection Baseline Dataset",
+  "description": "Community-level food security, environmental health, demographic, and historical context data for proposed FarmBlock research deployment sites: Liberty City, Miami FL and Pine Bluff, AR.",
+  "license": "CC0 1.0 Universal",
+  "publisher": "E5 Enclave Incorporated",
+  "published_date": "2026-04-16",
+  "version": "1.0",
+  "sites": [
+    {
+      "site_id": "SITE-001",
+      "name": "Liberty City",
+      "city": "Miami",
+      "state": "FL",
+      "county": "Miami-Dade",
+      "status": "proposed_research_deployment",
+      "demographics": {
+        "total_population": 20283,
+        "pct_black_non_hispanic": 82.5,
+        "pct_hispanic": 18.0,
+        "pct_white": 14.8,
+        "source": "FIU Community Background Report 2024 / US Census"
+      },
+      "food_access": {
+        "usda_food_desert_designation": true,
+        "food_desert_classification": "Low Income + Low Access",
+        "source": "USDA Food Access Research Atlas 2021"
+      },
+      "environmental_health": {
+        "proximity_to_industrial_pollution": "High",
+        "black_american_pollution_risk_multiplier": "75% more likely to live near industrial pollution sources vs white Americans",
+        "source": "EPA EJScreen / NAACP Environmental Justice Report"
+      },
+      "economic": {
+        "median_household_income_usd": null,
+        "note": "Below Miami-Dade median of $66,337",
+        "source": "US Census Bureau QuickFacts 2024"
+      },
+      "historical_context": {
+        "freedmen_community": true,
+        "notes": "Historic Black neighborhood in Miami-Dade. Site of 1980 McDuffie riots \u2014 catalyzed by police brutality against Black residents. Deep history of systemic disinvestment, redlining, and urban displacement.",
+        "strategic_rationale": "Highest-density BIPOC food apartheid zone in South Florida. Proximity to Black community organizations, churches, and reentry programs operated by BDI."
+      },
+      "research_rationale": {
+        "food_apartheid_severity": "Critical",
+        "ai_deployment_feasibility": "High \u2014 dense urban grid, existing community relationships",
+        "hbcu_proximity": "Florida Memorial University (HBC) \u2014 8 miles",
+        "proposed_research_focus": "Soil-to-health outcome correlation; urban microbiome diversity vs respiratory disease incidence"
+      }
+    },
+    {
+      "site_id": "SITE-002",
+      "name": "Pine Bluff",
+      "city": "Pine Bluff",
+      "state": "AR",
+      "county": "Jefferson County",
+      "status": "proposed_research_deployment",
+      "demographics": {
+        "total_population": 39743,
+        "pct_black": 74.0,
+        "median_age": 37.5,
+        "poverty_rate_pct": 24.0,
+        "median_household_income_usd": 42718,
+        "per_capita_income_usd": 22242,
+        "unemployment_rate_pct": 6.8,
+        "source": "US Census Bureau QuickFacts 2024 / DataUSA / DataCommons 2025"
+      },
+      "food_access": {
+        "arkansas_food_insecurity_rank": "Most food-insecure state in US (USDA 2022-2024)",
+        "arkansas_food_insecurity_rate_pct": 19.4,
+        "counties_with_limited_food_options": "62 of 75 Arkansas counties",
+        "usda_food_desert_designation": true,
+        "source": "USDA ERS Food Security Report 2024 / Arkansas Governor Food Desert Working Group 2022"
+      },
+      "historical_context": {
+        "freedmen_community": true,
+        "notes": "Pine Bluff was a major Freedmen's Bureau site post-Civil War. Jefferson County has one of the highest concentrations of Black descendants of enslaved people in Arkansas. City has experienced severe population decline, disinvestment, and industrial abandonment since 1980s.",
+        "abandoned_properties": "Significant \u2014 low-cost land availability creates agricultural deployment opportunity",
+        "strategic_rationale": "Freedmen legacy community with acute food apartheid, 74% Black population, 24% poverty rate, distressed property market enabling low-cost site acquisition."
+      },
+      "hbcu_proximity": {
+        "institution": "University of Arkansas at Pine Bluff (UAPB)",
+        "type": "HBCU \u2014 1890 Land Grant Institution",
+        "distance_miles": 2,
+        "departments_relevant": [
+          "Agriculture, Food and Life Sciences",
+          "Environmental Sciences"
+        ],
+        "partnership_status": "Aspirational \u2014 not yet contacted",
+        "notes": "UAPB's agriculture program includes urban farming research. 1890 Land Grant mandate explicitly covers food security and rural/urban agriculture for underserved communities."
+      },
+      "research_rationale": {
+        "food_apartheid_severity": "Critical \u2014 state ranked most food insecure in US",
+        "ai_deployment_feasibility": "High \u2014 low land cost, UAPB proximity, established Black community networks",
+        "proposed_research_focus": "Agricultural yield modeling; food security outcome measurement; soil quality baseline in post-industrial zones"
+      }
+    }
+  ],
+  "national_context": {
+    "food_deserts_us_total_affected": 23500000,
+    "bipoc_overrepresentation": "BIPOC Americans disproportionately concentrated in USDA-designated food desert census tracts",
+    "black_pollution_risk": "Black Americans 75% more likely to live near industrial pollution sources vs white Americans",
+    "arkansas_food_insecurity": "19.4% \u2014 highest in United States (USDA 2022-2024)",
+    "sources": [
+      "USDA Food Access Research Atlas 2021",
+      "USDA ERS Food Security Key Statistics 2024",
+      "NAACP Environmental and Climate Justice Report",
+      "US Census Bureau QuickFacts 2024",
+      "Arkansas Governor Food Desert Working Group Report 2022"
+    ]
+  },
+  "data_sources_cited": [
+    "USDA Economic Research Service \u2014 Food Access Research Atlas (ers.usda.gov)",
+    "US Census Bureau QuickFacts \u2014 Pine Bluff AR and Miami FL",
+    "Florida International University Community Background Report \u2014 Liberty City 2024",
+    "DataUSA \u2014 Pine Bluff AR Profile",
+    "Arkansas Center for Health Improvement \u2014 Food Deserts in Arkansas 2022",
+    "Arkansas Governor's Food Desert Working Group Report December 2022",
+    "USDA ERS Food Security in the US Key Statistics 2024",
+    "EPA EJScreen Environmental Justice Mapping Tool",
+    "DataCommons \u2014 Pine Bluff Place Profile 2025"
+  ],
+  "intended_use": "Baseline site selection dataset for FarmBlock urban agriculture and environmental health research program. To be used as foundation for IoT sensor deployment design, research hypothesis development, and community outreach planning.",
+  "dag_stamp": "e5-farmblock-baseline-dataset-v1-2026-0416"
+}
